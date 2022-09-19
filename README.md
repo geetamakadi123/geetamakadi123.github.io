@@ -11,5 +11,8 @@
 # Tools
 * VS Code
 * Github
-#Deploy Link
-https://geetamakadi123.github.io/
+# **🔗 Deployed Link**
+_This project is deployed on netlify here - [My Portfolio ](https://geetamakadi123.github.io/)_
+___
+
+
