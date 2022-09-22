@@ -17,7 +17,7 @@ times.addEventListener('click',function(){
 // document.querySelector("#form").addEventListener("submit",sendEmail());
 function sendEmail(){
     Email.send({
-        Host : "smtp.gmail.com",
+        Host : "ggmakadi1997.gmail.com",
         Username : "d@gmail.com",
         Password : "00000000000",
         To : 'a@gmail.com',
