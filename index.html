@@ -89,6 +89,8 @@
     </section>
 
 
+
+
     <!-- Second Page -->
     <section id="aboutPage" class="about">
         <div class="container flex item-center justify-between">
@@ -235,6 +237,8 @@
         </div>
 
     </section>
+    <!-- github-calender -->
+
 
     <section id="ProjectPage">
         <div class="space">
@@ -329,8 +333,21 @@
 
         </div>
     </section>
+    <script src="https://unpkg.com/github-calendar@latest/dist/github-calendar.min.js"></script>
 
-
+    <link rel="stylesheet" href="https://unpkg.com/github-calendar@latest/dist/github-calendar-responsive.css" />
+    
+    <h2 style="text-align:center;margin-top: 20px;color:#5fc49a;">My Github Calander</h2>
+    <div style="width:70%;margin:auto;margin-bottom: 40px;padding-bottom:20px ; background-color: white" class="calendar">
+    
+    
+    </div>
+    
+    <script>
+        GitHubCalendar(".calendar", "geetamakadi123");
+    
+        GitHubCalendar(".calendar", "geetamakadi123", { responsive: true });
+    </script>
 
     <section id="contact">
         <div class="contactus">
@@ -424,7 +441,7 @@
             </div>
 
         </div>
-
+      
 
     </section>
   
