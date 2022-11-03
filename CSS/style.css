@@ -155,7 +155,7 @@ section.about{
     width: 270px;
     border: 2px solid var(--primary);
     border-radius: 30px;
-    height: 330px;
+    height: 320px;
     transition: all .2s ease;
     margin-left: 20%;
    
@@ -397,9 +397,9 @@ section#ProjectPage{
 }
 .skill img{
     display: block;
-    width: 130%;
-    min-height: 90px;
-    max-height: 70px;
+    width: 100%;
+    min-height: 80px;
+    max-height: 81px;
     margin: auto;
    
 }
