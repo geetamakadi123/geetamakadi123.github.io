@@ -166,6 +166,7 @@ section.about{
     cursor: pointer;
 } */
 
+
  .about h1{
     margin-bottom: 1rem;
     font-size: 2.0rem;
@@ -330,12 +331,15 @@ section#ProjectPage{
    height: 150px;
 }
 .Tech{
-    width: 50%;
+    width: 70%;
+    height: 20%;
     display: flex;
     /* grid-template-columns: repeat(1,1fr);
     grid-template-rows: auto; */
     justify-content: space-around;
     margin: auto;
+   /* background-color: #434444; */
+    
 
 }
 .button {
